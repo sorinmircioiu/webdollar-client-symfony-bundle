@@ -1,5 +1,5 @@
 {
-    "name": "webdollar/webdollar-client-symfony-bundle",
+    "name": "smwebdollar/webdollar-client-symfony-bundle",
     "description": "Symfony Bundle for JSON-RPC 2.0 Webdollar Client PHP",
     "license": "ISC",
     "keywords": ["WebDollar", "Client", "Symfony", "Bundle", "Blockchain", "http", "json", "json-rpc", "jsonrpc", "rpc"],
